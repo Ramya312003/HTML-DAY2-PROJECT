@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+}
+h1{
+    margin: auto;
+    background-color: crimson;
+    text-align: center;
+    border-radius: 50px;
+    width: 650px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h2{
+    text-align: center;
+    margin-bottom: 30px;
+}
+img{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-radius: 25px;
+    border: 2px solid black;
+}
